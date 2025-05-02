@@ -1,0 +1,7 @@
+<Resources>
+  <string id="%1%" value="疲劳寿命系数"/>
+  <string id="%2%" value="单向"/>
+  <string id="%3%" value="完全回转的"/>
+  <string id="%4%" value="转矩循环数"/>
+  <string id="%5%" value="疲劳寿命系数，Kf"/>
+</Resources>

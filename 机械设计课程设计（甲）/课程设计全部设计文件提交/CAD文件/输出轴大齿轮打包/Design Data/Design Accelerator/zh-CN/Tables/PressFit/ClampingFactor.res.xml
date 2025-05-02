@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="夹紧系数"/>
+  <string id="%2%" value="压力接头"/>
+  <string id="%3%" value="润滑"/>
+  <string id="%4%" value="夹紧系数"/>
+  <string id="%5%" value="释放"/>
+  <string id="%6%" value="滑动"/>
+  <string id="%7%" value="圆周的"/>
+  <string id="%8%" value="纵向"/>
+  <string id="%9%" value="收缩"/>
+  <string id="%10%" value="已润滑"/>
+  <string id="%11%" value="未润滑"/>
+  <string id="%12%" value="压紧"/>
+</Resources>

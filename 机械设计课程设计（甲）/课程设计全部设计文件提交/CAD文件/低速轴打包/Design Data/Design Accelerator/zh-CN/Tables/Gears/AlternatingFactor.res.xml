@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="交变系数"/>
+  <string id="%2%" value="重复载荷"/>
+  <string id="%3%" value="交变载荷 (例如，空转)"/>
+  <string id="%4%" value="可逆操作"/>
+</Resources>

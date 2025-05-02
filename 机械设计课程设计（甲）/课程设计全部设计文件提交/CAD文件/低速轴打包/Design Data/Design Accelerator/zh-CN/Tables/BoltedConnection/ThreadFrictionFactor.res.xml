@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="螺纹摩擦系数"/>
+  <string id="%2%" value="螺纹曲面"/>
+  <string id="%3%" value="未润滑"/>
+  <string id="%4%" value="已润滑"/>
+  <string id="%5%" value="黑色或磷酸盐涂层"/>
+  <string id="%6%" value="镀锌涂层"/>
+  <string id="%7%" value="镉平板"/>
+</Resources>

@@ -1,0 +1,5 @@
+<Resources>
+  <string id="%1%" value="磨损寿命系数"/>
+  <string id="%2%" value="转数"/>
+  <string id="%3%" value="磨损寿命系数，Kw"/>
+</Resources>

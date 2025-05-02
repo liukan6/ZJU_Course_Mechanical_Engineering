@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="基座材料"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="许用压力"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="铸钢"/>
+  <string id="%6%" value="锻钢"/>
+  <string id="%7%" value="锻钢"/>
+  <string id="%8%" value="材料"/>
+  <string id="%9%" value="||s||.al|"/>
+</Resources>

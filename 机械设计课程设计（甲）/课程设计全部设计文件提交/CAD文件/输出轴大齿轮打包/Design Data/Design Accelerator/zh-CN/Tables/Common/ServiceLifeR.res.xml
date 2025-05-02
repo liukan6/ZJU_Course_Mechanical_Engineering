@@ -1,0 +1,12 @@
+<Resources>
+  <string id="%1%" value="期望的使用寿命 [以百万转为单位]"/>
+  <string id="%2%" value="低 rpm，很少使用"/>
+  <string id="%3%" value="低 rpm，不始终无间断使用"/>
+  <string id="%4%" value="低 rpm，无间断使用"/>
+  <string id="%5%" value="中 rpm，很少使用"/>
+  <string id="%6%" value="中 rpm，不始终无间断使用"/>
+  <string id="%7%" value="中 rpm，无间断使用"/>
+  <string id="%8%" value="高 rpm，很少使用"/>
+  <string id="%9%" value="高 rpm，不始终无间断使用"/>
+  <string id="%10%" value="高 rpm，无间断使用"/>
+</Resources>

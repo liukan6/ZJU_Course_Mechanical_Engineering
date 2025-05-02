@@ -1,0 +1,216 @@
+<Resources>
+	<string id="%1%" value="联接材料"/>
+	<string id="%2%" value="材料名称"/>
+	<string id="%3%" value="屈服强度"/>
+	<string id="%4%" value="psi"/>
+	<string id="%5%" value="拉伸强度"/>
+	<string id="%6%" value="许用拉伸强度极限"/>
+	<string id="%7%" value="标准"/>
+	<string id="%8%" value="材料类型"/>
+	<string id="%9%" value="结构钢 A283-等级 C"/>
+	<string id="%10%" value="基底材料"/>
+	<string id="%11%" value="结构钢 A519-1020"/>
+	<string id="%12%" value="结构钢 A519-1035"/>
+	<string id="%13%" value="结构钢 A572-等级 42"/>
+	<string id="%14%" value="结构钢 A572-等级 50"/>
+	<string id="%15%" value="结构钢 A519-1050"/>
+	<string id="%16%" value="结构钢 A512-MT1010SR"/>
+	<string id="%17%" value="电极 E60XX"/>
+	<string id="%18%" value="焊接材料"/>
+	<string id="%19%" value="电极 E70XX"/>
+	<string id="%20%" value="电极 E80XX"/>
+	<string id="%21%" value="电极 E90XX"/>
+	<string id="%22%" value="电极 E100XX"/>
+	<string id="%23%" value="电极 E120XX"/>
+	<string id="%24%" value="Std"/>
+	<string id="%25%" value="ANSI"/>
+	<string id="%26%" value="ISO"/>
+	<string id="%27%" value="DIN"/>
+	<string id="%28%" value="BS"/>
+	<string id="%29%" value="CSN"/>
+	<string id="%30%" value="NF"/>
+	<string id="%31%" value="JIS"/>
+	<string id="%32%" value="材料"/>
+	<string id="%33%" value="S|.y|"/>
+	<string id="%34%" value="S|.ult|"/>
+	<string id="%35%" value="S|.ult min| - S|.ult max|"/>
+	<string id="%36%" value="类型"/>
+	<string id="%37%" value="结构钢 S235JRG1"/>
+	<string id="%38%" value="结构钢 S235JRH"/>
+	<string id="%39%" value="结构钢 S235JRG21"/>
+	<string id="%40%" value="结构钢 S235J0"/>
+	<string id="%41%" value="结构钢 SPT360"/>
+	<string id="%42%" value="结构钢 SPT410"/>
+	<string id="%43%" value="结构钢 S275J2G3"/>
+	<string id="%44%" value="结构钢 S275J2HG3"/>
+	<string id="%45%" value="结构钢 S355J2G3"/>
+	<string id="%46%" value="结构钢 S355J2H"/>
+	<string id="%47%" value="结构钢 S355J0"/>
+	<string id="%48%" value="结构钢 S355J0H"/>
+	<string id="%49%" value="结构钢 SPT510"/>
+	<string id="%50%" value="结构钢 USt34-2"/>
+	<string id="%51%" value="结构钢 USt37-2"/>
+	<string id="%52%" value="结构钢 St37-2"/>
+	<string id="%53%" value="结构钢 RSt37-2"/>
+	<string id="%54%" value="结构钢 St37-3"/>
+	<string id="%55%" value="结构钢 St44-3"/>
+	<string id="%56%" value="结构钢 St44.0"/>
+	<string id="%57%" value="结构钢 St34-2BK"/>
+	<string id="%58%" value="结构钢 St52-3"/>
+	<string id="%59%" value="结构钢 St52.0"/>
+	<string id="%60%" value="结构钢 St37-2BK"/>
+	<string id="%61%" value="结构钢 St52-3BK"/>
+	<string id="%62%" value="电极 E43XX"/>
+	<string id="%63%" value="电极 E51XX"/>
+	<string id="%64%" value="结构钢 CFS3NBK"/>
+	<string id="%65%" value="结构钢 40A"/>
+	<string id="%66%" value="结构钢 40B"/>
+	<string id="%67%" value="结构钢 40C"/>
+	<string id="%68%" value="结构钢 43D"/>
+	<string id="%69%" value="结构钢 CFS6NBK"/>
+	<string id="%70%" value="结构钢 CFS8NBK"/>
+	<string id="%71%" value="结构钢 CEW2BK"/>
+	<string id="%72%" value="结构钢 50D"/>
+	<string id="%73%" value="结构钢 50C"/>
+	<string id="%74%" value="结构钢 CEW3BK"/>
+	<string id="%75%" value="结构钢 CEW5BK"/>
+	<string id="%76%" value="结构钢 11343"/>
+	<string id="%77%" value="结构钢 11353"/>
+	<string id="%78%" value="结构钢 11366"/>
+	<string id="%79%" value="结构钢 11368"/>
+	<string id="%80%" value="结构钢 11369"/>
+	<string id="%81%" value="结构钢 11373"/>
+	<string id="%82%" value="结构钢 11375"/>
+	<string id="%83%" value="结构钢 11378"/>
+	<string id="%84%" value="结构钢 11416"/>
+	<string id="%85%" value="结构钢 11418"/>
+	<string id="%86%" value="结构钢 11419"/>
+	<string id="%87%" value="结构钢 11425"/>
+	<string id="%88%" value="电极 11366"/>
+	<string id="%89%" value="结构钢 A34-2"/>
+	<string id="%90%" value="结构钢 E24-2"/>
+	<string id="%91%" value="结构钢 E24-3"/>
+	<string id="%92%" value="结构钢 E28-4"/>
+	<string id="%93%" value="结构钢 E36-3"/>
+	<string id="%94%" value="结构钢 E36-4"/>
+	<string id="%95%" value="结构钢 STKM12A"/>
+	<string id="%96%" value="结构钢 SS330"/>
+	<string id="%97%" value="结构钢 STKM13B"/>
+	<string id="%98%" value="结构钢 STKM16A"/>
+	<string id="%99%" value="结构钢 SM520C"/>
+	<string id="%100%" value="结构钢 SM520B"/>
+	<string id="%101%" value="结构钢 STKM12C"/>
+	<string id="%102%" value="结构钢 STKM16C"/>
+	<string id="%103%" value="电极 D43XX"/>
+	<string id="%104%" value="电极 D50XX"/>
+	<string id="%105%" value="结构钢 A36"/>
+	<string id="%106%" value="GOST"/>
+	<string id="%107%" value="钢 ST0 GOST 380-94"/>
+	<string id="%108%" value="钢 ST1KP GOST 380-94"/>
+	<string id="%109%" value="钢 ST1PS GOST 380-94"/>
+	<string id="%110%" value="钢 ST1SP GOST 380-94"/>
+	<string id="%111%" value="钢 ST2KP GOST 380-94"/>
+	<string id="%112%" value="钢 ST2PS GOST 380-94"/>
+	<string id="%113%" value="钢 ST2SP GOST 380-94"/>
+	<string id="%114%" value="钢 ST3KP GOST 380-94"/>
+	<string id="%115%" value="钢 ST3PS GOST 380-94"/>
+	<string id="%116%" value="钢 ST3SP GOST 380-94"/>
+	<string id="%117%" value="钢 ST3GPS GOST 380-94"/>
+	<string id="%118%" value="钢 ST3GSP GOST 380-94"/>
+	<string id="%119%" value="钢 ST4KP GOST 380-94"/>
+	<string id="%120%" value="钢 ST4PS GOST 380-94"/>
+	<string id="%121%" value="钢 ST4SP GOST 380-94"/>
+	<string id="%122%" value="钢 ST5PS GOST 380-94"/>
+	<string id="%123%" value="钢 ST5SP GOST 380-94"/>
+	<string id="%124%" value="钢 ST5GSP GOST 380-94"/>
+	<string id="%125%" value="钢 ST6PS GOST 380-94"/>
+	<string id="%126%" value="钢 ST6SP GOST 380-94"/>
+	<string id="%127%" value="钢 08KP GOST 1050-88"/>
+	<string id="%128%" value="钢 10 GOST 1050-88"/>
+	<string id="%129%" value="钢 20 GOST 1050-88"/>
+	<string id="%130%" value="钢 35 GOST 1050-88"/>
+	<string id="%131%" value="钢 45 GOST 1050-88"/>
+	<string id="%132%" value="铸钢 25L GOST 977-88"/>
+	<string id="%133%" value="铸钢 35L GOST 977-88"/>
+	<string id="%134%" value="钢 20Ch GOST 4543-71"/>
+	<string id="%135%" value="钢 40Ch GOST 4543-71"/>
+	<string id="%136%" value="钢 18ChGT GOST 4543-71"/>
+	<string id="%137%" value="钢 30ChGSA GOST 4543-71"/>
+	<string id="%138%" value="钢 06G2SJu"/>
+	<string id="%139%" value="钢 06ChGSJu"/>
+	<string id="%140%" value="钢 08G2S"/>
+	<string id="%141%" value="钢 09G2 GOST 19281-89"/>
+	<string id="%142%" value="钢 09G2D GOST 19281-89"/>
+	<string id="%143%" value="钢 09G2S GOST 19281-89"/>
+	<string id="%144%" value="钢 09G2SD GOST 19281-89"/>
+	<string id="%145%" value="钢 10G2B GOST 19281-89"/>
+	<string id="%146%" value="钢 10G2BD GOST 19281-89"/>
+	<string id="%147%" value="钢 10G2S1 GOST 19281-89"/>
+	<string id="%148%" value="钢 10G2S1D GOST 19281-89"/>
+	<string id="%149%" value="钢 10GS2"/>
+	<string id="%150%" value="钢 10GT"/>
+	<string id="%151%" value="钢 10ChGSN1D GOST 19281-89"/>
+	<string id="%152%" value="钢 10ChNDP GOST 19281-89"/>
+	<string id="%153%" value="钢 10ChSND GOST 19281-89"/>
+	<string id="%154%" value="钢 12G2SMF"/>
+	<string id="%155%" value="钢 12GN2MFAJu"/>
+	<string id="%156%" value="钢 12GS GOST 19281-89"/>
+	<string id="%157%" value="钢 12ChGN2MFBAJu"/>
+	<string id="%158%" value="钢 14G2 GOST 19281"/>
+	<string id="%159%" value="钢 14G2AF GOST 19281"/>
+	<string id="%160%" value="钢 14G2AFD GOST 19281"/>
+	<string id="%161%" value="钢 14ChGS GOST 19281"/>
+	<string id="%162%" value="钢 15G2AFD GOST 19281-89"/>
+	<string id="%163%" value="钢 15G2AFDPS"/>
+	<string id="%164%" value="钢 15G2SF GOST 19281-89"/>
+	<string id="%165%" value="钢 15G2SFD GOST 19281-89"/>
+	<string id="%166%" value="钢 15GS"/>
+	<string id="%167%" value="钢 15GF GOST 19281-89"/>
+	<string id="%168%" value="钢 15GFD GOST 19281-89"/>
+	<string id="%169%" value="钢 15ChSND GOST 19281-89"/>
+	<string id="%170%" value="钢 16G2AF GOST 19281-89"/>
+	<string id="%171%" value="钢 16G2AFD GOST 19281-89"/>
+	<string id="%172%" value="钢 16GS GOST 19281-89"/>
+	<string id="%173%" value="钢 16D"/>
+	<string id="%174%" value="钢 17G1S GOST 19281-89"/>
+	<string id="%175%" value="钢 17GS GOST 19281-89"/>
+	<string id="%176%" value="钢 18G2AF GOST 19281-89"/>
+	<string id="%177%" value="钢 18G2AFD GOST 19281-89"/>
+	<string id="%178%" value="钢 18G2AFDPS"/>
+	<string id="%179%" value="钢 18G2AFPS"/>
+	<string id="%180%" value="钢 18G2S"/>
+	<string id="%181%" value="钢 1Ch2M1"/>
+	<string id="%182%" value="钢 20GS"/>
+	<string id="%183%" value="钢 20GS2"/>
+	<string id="%184%" value="钢 20ChG2C"/>
+	<string id="%185%" value="钢 23Ch2G2T"/>
+	<string id="%186%" value="钢 25G2S"/>
+	<string id="%187%" value="钢 25S2R"/>
+	<string id="%188%" value="钢 28S"/>
+	<string id="%189%" value="钢 30ChS2"/>
+	<string id="%190%" value="钢 35GS"/>
+	<string id="%191%" value="钢 80S"/>
+	<string id="%192%" value="电极 E38"/>
+	<string id="%193%" value="电极 E42"/>
+	<string id="%194%" value="电极 E46"/>
+	<string id="%195%" value="电极 E50"/>
+	<string id="%196%" value="电极 E42A"/>
+	<string id="%197%" value="电极 E46A"/>
+	<string id="%198%" value="电极 E50A"/>
+	<string id="%199%" value="电极 E55"/>
+	<string id="%200%" value="电极 E60"/>
+	<string id="%201%" value="电极 E70"/>
+	<string id="%202%" value="电极 E85"/>
+	<string id="%203%" value="电极 E100"/>
+	<string id="%204%" value="电极 E125"/>
+	<string id="%205%" value="电极 E150"/>
+	<string id="%206%" value="电极 E-09M"/>
+	<string id="%207%" value="电极 E-09MCh"/>
+	<string id="%208%" value="电极 E-09Ch1M"/>
+	<string id="%209%" value="电极 E-05Ch2M"/>
+	<string id="%210%" value="电极 E-09Ch2M1"/>
+	<string id="%211%" value="电极 E-09Ch1MF"/>
+	<string id="%212%" value="电极 E-10Ch1M1NFB"/>
+	<string id="%213%" value="电极 E-10Ch3M1BF"/>
+	<string id="%214%" value="电极 E-10Ch5MF"/>
+</Resources>

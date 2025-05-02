@@ -1,0 +1,16 @@
+<Resources>
+  <string id="%1%" value="公称直径"/>
+  <string id="%2%" value="紧密齿隙"/>
+  <string id="%3%" value="普通齿隙"/>
+  <string id="%4%" value="宽松齿隙"/>
+  <string id="%5%" value="头直径"/>
+  <string id="%6%" value="沉头深度"/>
+  <string id="%7%" value="倒角角度"/>
+  <string id="%8%" value="JIS 钻孔"/>
+  <string id="%9%" value="JIS 沉头平头螺钉"/>
+  <string id="%10%" value="JIS 凸起沉头螺钉"/>
+  <string id="%11%" value="JIS 六角头螺钉"/>
+  <string id="%12%" value="JIS 六角头螺栓"/>
+  <string id="%13%" value="JIS 六角头螺钉"/>
+  <string id="%14%" value="JIS 六角凹头螺钉"/>
+</Resources>

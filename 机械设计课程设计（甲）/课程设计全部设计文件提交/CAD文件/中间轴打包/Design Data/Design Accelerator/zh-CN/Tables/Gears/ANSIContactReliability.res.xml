@@ -1,0 +1,7 @@
+<Resources>
+  <string id="%1%" value="可靠性系数表"/>
+  <string id="%2%" value="99.9% 可靠性"/>
+  <string id="%3%" value="99% 可靠性"/>
+  <string id="%4%" value="90% 可靠性"/>
+  <string id="%5%" value="50% 可靠性"/>
+</Resources>

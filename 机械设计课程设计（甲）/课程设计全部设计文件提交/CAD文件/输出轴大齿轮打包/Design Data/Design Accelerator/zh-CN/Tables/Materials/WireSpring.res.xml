@@ -1,0 +1,34 @@
+<Resources>
+<string id="%1%" value="弹簧材料"/>
+<string id="%2%" value="材料名称"/>
+<string id="%3%" value="密度"/>
+<string id="%4%" value="lb/ft^3"/>
+<string id="%5%" value="切变模量"/>
+<string id="%6%" value="psi"/>
+<string id="%7%" value="许用扭应力与极限拉伸强度的比率"/>
+<string id="%8%" value="极限拉应力"/>
+<string id="%9%" value="硬拉钢丝 QQ-W-428"/>
+<string id="%10%" value="琴用钢丝 QQ-W-470"/>
+<string id="%11%" value="油中回火的钢丝 QQ-W-428"/>
+<string id="%12%" value="铬硅合金钢丝 QQ-W-412"/>
+<string id="%13%" value="耐腐蚀钢丝 QQ-W-423"/>
+<string id="%14%" value="铬钒合金钢丝"/>
+<string id="%15%" value="硅锰合金钢丝"/>
+<string id="%16%" value="优质阀门弹簧钢丝"/>
+<string id="%17%" value="不锈钢 304 和 420"/>
+<string id="%18%" value="不锈钢 316"/>
+<string id="%19%" value="不锈钢 431 和 17-7PH"/>
+<string id="%20%" value="材料"/>
+<string id="%21%" value="Std"/>
+<string id="%22%" value="标准"/>
+<string id="%23%" value="R|.o|"/>
+<string id="%24%" value="G"/>
+<string id="%25%" value="系数"/>
+<string id="%26%" value="WD"/>
+<string id="%27%" value="导线直径"/>
+<string id="%28%" value="in"/>
+<string id="%29%" value="||s||.ult|"/>
+<string id="%30%" value="ANSI"/>
+<string id="%31%" value="导线直径和极限拉伸强度"/>
+<string id="%32%" value="ul"/>
+</Resources>

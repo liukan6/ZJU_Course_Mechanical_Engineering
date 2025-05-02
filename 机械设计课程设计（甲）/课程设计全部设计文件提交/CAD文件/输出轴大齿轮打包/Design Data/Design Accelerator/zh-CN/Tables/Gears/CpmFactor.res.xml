@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="小齿轮比例偏移量"/>
+  <string id="%2%" value="跨越偏移比率小于 0.175 的固定小齿轮"/>
+  <string id="%3%" value="跨越偏移比率大于 0.175 的固定小齿轮"/>
+  <string id="%4%" value="偏移比率是小齿轮中间面偏离轴承跨距中心线的单位距离"/>
+</Resources>

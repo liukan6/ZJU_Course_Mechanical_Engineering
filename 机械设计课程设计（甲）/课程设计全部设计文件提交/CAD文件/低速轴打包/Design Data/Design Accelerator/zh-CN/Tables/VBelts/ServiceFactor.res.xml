@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="安全系数"/>
+  <string id="%2%" value="轻载"/>
+  <string id="%3%" value="中度负载"/>
+  <string id="%4%" value="重载"/>
+  <string id="%5%" value="极重负载"/>
+  <string id="%6%" value="间断使用"/>
+  <string id="%7%" value="正常使用"/>
+  <string id="%8%" value="连续使用"/>
+  <string id="%9%" value="每天 3-5 小时"/>
+  <string id="%10%" value="每天 8-10 小时"/>
+  <string id="%11%" value="每天 16-24 小时"/>
+  <string id="%12%" value="主动机器"/>
+  <string id="%13%" value="从动机器"/>
+  <string id="%14%" value="正常转矩"/>
+  <string id="%15%" value="大转矩"/>
+</Resources>

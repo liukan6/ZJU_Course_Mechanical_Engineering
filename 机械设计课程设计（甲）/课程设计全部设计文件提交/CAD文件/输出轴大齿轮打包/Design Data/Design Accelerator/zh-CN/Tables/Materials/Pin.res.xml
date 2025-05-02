@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="销材料 (ANSI)"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="许用剪切应力"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="碳钢 1211; 1212; 1213"/>
+  <string id="%6%" value="高碳钢 1070 - 1095"/>
+  <string id="%7%" value="不锈钢 302"/>
+  <string id="%8%" value="不锈钢 410 - 420"/>
+  <string id="%9%" value="合金钢 6150H"/>
+  <string id="%10%" value="材料"/>
+  <string id="%11%" value="||t||.Al|"/>
+</Resources>

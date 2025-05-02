@@ -1,0 +1,79 @@
+<Resources>
+  <string id="%1%" value="蜗轮材料"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="热处理"/>
+  <string id="%4%" value="拉伸强度"/>
+  <string id="%5%" value="psi"/>
+  <string id="%6%" value="屈服强度"/>
+  <string id="%7%" value="接触疲劳强度"/>
+  <string id="%8%" value="弯曲疲劳强度"/>
+  <string id="%9%" value="弹性模量"/>
+  <string id="%10%" value="泊松比"/>
+  <string id="%11%" value="最大滑动速率"/>
+  <string id="%12%" value="ft/s"/>
+  <string id="%13%" value="描述"/>
+  <string id="%14%" value="灰口铸铁"/>
+  <string id="%15%" value="在型砂中"/>
+  <string id="%16%" value="黄铜 CuZn35Pb1"/>
+  <string id="%17%" value="黄铜 CuZn35AlFe3"/>
+  <string id="%18%" value="在冲模中"/>
+  <string id="%19%" value="离心铸造"/>
+  <string id="%20%" value="铝青铜合金 CuAl9Fe3"/>
+  <string id="%21%" value="铝青铜合金 CuAl10Fe4Ni"/>
+  <string id="%22%" value="tin bronze CuSn5Zn5Pb5"/>
+  <string id="%23%" value="tin bronze CuSn8Zn6Pb3"/>
+  <string id="%24%" value="tin bronze CuSn10Ni1P1"/>
+  <string id="%25%" value="tin bronze CuSn12"/>
+  <string id="%26%" value="tin bronze CuSn10P1"/>
+  <string id="%27%" value="标准"/>
+  <string id="%28%" value="Std"/>
+  <string id="%29%" value="ANSI"/>
+  <string id="%30%" value="ISO"/>
+  <string id="%31%" value="DIN"/>
+  <string id="%32%" value="BS"/>
+  <string id="%33%" value="CSN"/>
+  <string id="%34%" value="GOST"/>
+  <string id="%35%" value="NF"/>
+  <string id="%36%" value="JIS"/>
+  <string id="%37%" value="材料"/>
+  <string id="%38%" value="热处理"/>
+  <string id="%39%" value="R|.m|"/>
+  <string id="%40%" value="R|.e|/R|.p02|"/>
+  <string id="%41%" value="K|.w|"/>
+  <string id="%42%" value="S|.n|"/>
+  <string id="%43%" value="E"/>
+  <string id="%44%" value="||m|"/>
+  <string id="%45%" value="最大值"/>
+  <string id="%46%" value="说明"/>
+  <string id="%47%" value="DIN GG - 15"/>
+  <string id="%48%" value="DIN GG - 20"/>
+  <string id="%49%" value="DIN GG - 25"/>
+  <string id="%50%" value="DIN GG - 30"/>
+  <string id="%51%" value="CSN 422415"/>
+  <string id="%52%" value="CSN 422420"/>
+  <string id="%53%" value="CSN 422425"/>
+  <string id="%54%" value="CSN 422430"/>
+  <string id="%55%" value="CSN 423313"/>
+  <string id="%56%" value="CSN 423311"/>
+  <string id="%57%" value="CSN 423145"/>
+  <string id="%58%" value="CSN 423147"/>
+  <string id="%59%" value="CSN 423135"/>
+  <string id="%60%" value="CSN 423137"/>
+  <string id="%61%" value="CSN 423123"/>
+  <string id="%62%" value="CSN 423120"/>
+  <string id="%63%" value="VHV"/>
+  <string id="%64%" value="齿型侧面硬度"/>
+  <string id="%65%" value="s|.Hlim|"/>
+  <string id="%66%" value="接触疲劳极限"/>
+  <string id="%67%" value="s|.Flim|"/>
+  <string id="%68%" value="弯曲疲劳极限"/>
+  <string id="%69%" value="N|.Hlim|"/>
+  <string id="%70%" value="接触时的基本载荷循环次数"/>
+  <string id="%71%" value="N|.Flim|"/>
+  <string id="%72%" value="弯曲中负荷循环的基数"/>
+  <string id="%73%" value="q|.H|"/>
+  <string id="%74%" value="Wohler 曲线接触指数"/>
+  <string id="%75%" value="q|.F|"/>
+  <string id="%76%" value="Wohler 曲线弯曲指数"/>
+  <string id="%77%" value="ul"/>
+</Resources>

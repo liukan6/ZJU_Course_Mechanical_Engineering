@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="花键材料"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="布氏硬度值"/>
+  <string id="%4%" value="ul"/>
+  <string id="%5%" value="维氏硬度值 (渐增)"/>
+  <string id="%6%" value="许用抗压应力"/>
+  <string id="%7%" value="MPa"/>
+  <string id="%8%" value="许用剪切应力"/>
+  <string id="%9%" value="钢"/>
+  <string id="%10%" value="表面硬化钢"/>
+  <string id="%11%" value="表面硬化钢"/>
+  <string id="%12%" value="材料"/>
+  <string id="%13%" value="B|.hn|"/>
+  <string id="%14%" value="HV"/>
+  <string id="%15%" value="S|.c|"/>
+  <string id="%16%" value="S|.s|"/>
+  <string id="%17%" value="许用拉应力"/>
+  <string id="%18%" value="S|.t|"/>
+</Resources>

@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="DIN 5480 - 裁剪器类型"/>
+  <string id="%2%" value="类型"/>
+  <string id="%3%" value="抛光侧面"/>
+  <string id="%4%" value="h|.aP0|"/>
+  <string id="%5%" value="齿顶高系数"/>  
+  <string id="%6%" value="ul"/>
+  <string id="%7%" value="铣成"/>
+  <string id="%8%" value="刺"/>  
+  <string id="%9%" value="钻孔"/> 
+  <string id="%10%" value="固定"/>   
+  <string id="%11%" value="c|.FP0|"/>  
+  <string id="%12%" value="系数"/>      
+</Resources>

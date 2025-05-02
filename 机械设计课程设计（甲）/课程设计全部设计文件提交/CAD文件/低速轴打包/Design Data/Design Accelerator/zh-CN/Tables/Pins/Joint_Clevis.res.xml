@@ -1,0 +1,8 @@
+<Resources>
+  <string id="%1%" value="安全系数"/>
+  <string id="%2%" value="静态载荷"/>
+  <string id="%3%" value="重复载荷"/>
+  <string id="%4%" value="交变载荷"/>
+  <string id="%5%" value="永久配合"/>
+  <string id="%6%" value="运行配合"/>
+</Resources>

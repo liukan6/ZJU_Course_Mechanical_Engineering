@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="冲击系数"/>
+  <string id="%2%" value="从动机"/>
+  <string id="%3%" value="电动机"/>
+  <string id="%4%" value="低速内燃机 (1 个汽缸)"/>
+  <string id="%5%" value="低速内燃机 (2 个汽缸)"/>
+  <string id="%6%" value="高速内燃机 (1 个或 2 个汽缸)"/>
+  <string id="%7%" value="高速内燃机 (4 个汽缸)"/>
+  <string id="%8%" value="高速内燃机 (6 个或更多汽缸)"/>
+  <string id="%9%" value="高速水轮机"/>
+  <string id="%10%" value="低速水轮机"/>
+  <string id="%11%" value="蒸汽轮机"/>
+  <string id="%12%" value="蒸汽机"/>
+  <string id="%13%" value="变速器输出"/>
+  <string id="%14%" value="车床，钻孔"/>
+  <string id="%15%" value="铣床"/>
+  <string id="%16%" value="刨床"/>
+  <string id="%17%" value="牛头刨床，插床"/>
+  <string id="%18%" value="拉伸矫直机"/>
+  <string id="%19%" value="液压机"/>
+  <string id="%20%" value="偏心压力机"/>
+  <string id="%21%" value="杠杆式压力机"/>
+  <string id="%22%" value="木工机械"/>
+  <string id="%23%" value="绝缘线束"/>
+  <string id="%24%" value="圆形结构件"/>
+  <string id="%25%" value="平织结构件"/>
+  <string id="%26%" value="旋转器"/>
+  <string id="%27%" value="往复式单极压缩机"/>
+  <string id="%28%" value="往复式双极压缩机"/>
+  <string id="%29%" value="离心式单极压缩机"/>
+  <string id="%30%" value="离心式双极压缩机"/>
+  <string id="%31%" value="鼓风机"/>
+  <string id="%32%" value="通风机"/>
+  <string id="%33%" value="活塞式单缸泵"/>
+  <string id="%34%" value="活塞式双缸泵"/>
+  <string id="%35%" value="离心泵"/>
+  <string id="%36%" value="多机座研磨机"/>
+  <string id="%37%" value="连续研磨机"/>
+  <string id="%38%" value="破碎机"/>
+  <string id="%39%" value="碾碎机"/>
+  <string id="%40%" value="管磨机"/>
+  <string id="%41%" value="锤式粉碎机"/>
+  <string id="%42%" value="传动式砑光机"/>
+  <string id="%43%" value="直接传动砑光机"/>
+  <string id="%44%" value="纤维研磨机"/>
+  <string id="%45%" value="震动筛"/>
+  <string id="%46%" value="捣固机"/>
+  <string id="%47%" value="转动搅拌机"/>
+  <string id="%48%" value="挖掘机"/>
+  <string id="%49%" value="旋耕机"/>
+  <string id="%50%" value="搅拌机"/>
+  <string id="%51%" value="用于散装材料的传送器"/>
+  <string id="%52%" value="用于结构材料的传送器"/>
+  <string id="%53%" value="起升装置"/>
+  <string id="%54%" value="铲车"/>
+  <string id="%55%" value="采矿卷扬机"/>
+  <string id="%56%" value="生成器 - 大"/>
+  <string id="%57%" value="生成器 - 小"/>
+  <string id="%58%" value="变速器输入"/>
+</Resources>

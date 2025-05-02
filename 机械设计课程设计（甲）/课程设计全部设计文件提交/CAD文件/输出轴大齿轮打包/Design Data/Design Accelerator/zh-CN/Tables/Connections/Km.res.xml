@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="柔性花键的偏移载荷分布系数"/>
+  <string id="%2%" value="每英寸的偏移英寸数"/>
+  <string id="%3%" value="载荷分布系数，Km"/>
+  <string id="%4%" value="1/2 英寸面宽"/>
+  <string id="%5%" value="1 英寸面宽"/>
+  <string id="%6%" value="2 英寸面宽"/>
+  <string id="%7%" value="4 英寸面宽"/>
+</Resources>

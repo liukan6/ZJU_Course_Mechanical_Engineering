@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="装配系数"/>
+  <string id="%2%" value="支持的特征"/>
+  <string id="%3%" value="面宽 [英寸]"/>
+  <string id="%4%" value="0 到 2"/>
+  <string id="%5%" value="直到 16"/>
+  <string id="%6%" value="精确装配、小轴承齿隙、最小偏差、精确齿轮"/>
+  <string id="%7%" value="较柔的装配、不太精确的齿轮、整面接触"/>
+  <string id="%8%" value="小于整面接触的精确装配"/>
+  <string id="%9%" value="超过 2.2"/>
+</Resources>

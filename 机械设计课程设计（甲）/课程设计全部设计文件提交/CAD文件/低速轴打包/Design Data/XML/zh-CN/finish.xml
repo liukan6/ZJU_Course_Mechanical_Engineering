@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><FinishFeatureDefinitions Version="1">
+	<Type Id="MaterialCoating">
+		<Process Name="Zn8/An">
+			<Appearance>Zinc</Appearance>
+			<Description>锌厚度 8μm，透明钝化处理</Description>
+			<ShortDescription>Zn8/An</ShortDescription>
+			<Thickness>8 微米</Thickness>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Zn12/Cn/T2">
+			<Appearance>Turquoise</Appearance>
+			<Description>锌厚度 12 μm，彩虹色转化层，带密封层</Description>
+			<ShortDescription>Zn12/Cn/T2</ShortDescription>
+			<Thickness>12 微米</Thickness>
+			<Comment></Comment>
+		</Process>
+		<Process Name="ZnNi8/An">
+			<Appearance>Yellow</Appearance>
+			<Description>锌镍合金厚度 8 μm，黑色钝化处理</Description>
+			<ShortDescription>ZnNi8/An</ShortDescription>
+			<Thickness>8 微米</Thickness>
+			<Comment></Comment>
+		</Process>
+	</Type>
+	<Type Id="HeatTreatment">
+		<Process Name="Carburize .040 - .030">
+			<Appearance>Anodized - Black</Appearance>
+			<Description>渗碳 .040 - .030，最低 350F 锻造 1 小时，HRC 55-60</Description>
+			<ShortDescription>渗碳 .040 - .030</ShortDescription>
+			<Depth>30 微米</Depth>
+			<Hardness>60 HRC</Hardness>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Case Hardening 41-45HRC">
+			<Appearance>Dark Green</Appearance>
+			<Description>表面硬化 3.00mm，41-45 HRC</Description>
+			<ShortDescription>表面硬化 41-45HRC</ShortDescription>
+			<Depth>3.00 mm</Depth>
+			<Hardness>45 HRC</Hardness>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Soft Annealing 225HB">
+			<Appearance>Dark Olive</Appearance>
+			<Description>软退火 225HB</Description>
+			<ShortDescription>软退火 225HB</ShortDescription>
+			<Depth>0 mm</Depth>
+			<Hardness>225 HB</Hardness>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Case Hardening 55±5HRC">
+			<Appearance>Dark Red</Appearance>
+			<Description>表面硬化 55±5HRC</Description>
+			<ShortDescription>表面硬化 55±5HRC</ShortDescription>
+			<Depth>3.00 mm</Depth>
+			<Hardness>55 HRC</Hardness>
+			<Comment></Comment>
+		</Process>
+	</Type>
+	<Type Id="SurfaceTexture">
+		<Process Name="Barrel Finishing">
+			<Appearance>Blue - Wall Paint - Glossy</Appearance>
+			<Description>滚筒抛光</Description>
+			<ShortDescription>滚筒抛光</ShortDescription>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Grinding">
+			<Appearance>Smooth - Purple</Appearance>
+			<Description>磨削</Description>
+			<ShortDescription>磨削</ShortDescription>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Honing">
+			<Appearance>Smooth - White</Appearance>
+			<Description>磨光</Description>
+			<ShortDescription>抛光</ShortDescription>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Lapping">
+			<Appearance>Smooth - Yellow</Appearance>
+			<Description>研磨</Description>
+			<ShortDescription>研磨</ShortDescription>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Polishing">
+			<Appearance>Smooth - Dark Forest Green</Appearance>
+			<Description>抛光</Description>
+			<ShortDescription>抛光</ShortDescription>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Superfinishing">
+			<Appearance>Flaked Satin - Blue</Appearance>
+			<Description>超精加工</Description>
+			<ShortDescription>超精加工</ShortDescription>
+			<Comment></Comment>
+		</Process>
+	</Type>
+	<Type Id="PaintColor">
+		<Process Name="Prime/Paint RAL 3018">
+			<Appearance>Red</Appearance>
+			<Description>底漆 RAL 3018</Description>
+			<ShortDescription>RAL 3018</ShortDescription>
+			<Thickness>50 微米</Thickness>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Prime/Paint RAL 2008">
+			<Appearance>Orange</Appearance>
+			<Description>Prime/Paint RAL 2008</Description>
+			<ShortDescription>RAL 2008</ShortDescription>
+			<Thickness>50 微米</Thickness>
+			<Comment></Comment>
+		</Process>
+		<Process Name="Prime/Paint RAL 6003">
+			<Appearance>Olive Green</Appearance>
+			<Description>Prime/Paint RAL 6003</Description>
+			<ShortDescription>RAL 6003</ShortDescription>
+			<Thickness>50 微米</Thickness>
+			<Comment></Comment>
+		</Process>
+	</Type>
+</FinishFeatureDefinitions>

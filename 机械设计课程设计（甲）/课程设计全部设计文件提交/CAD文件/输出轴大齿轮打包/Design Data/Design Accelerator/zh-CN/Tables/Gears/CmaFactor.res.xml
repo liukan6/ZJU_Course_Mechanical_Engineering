@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="打开轴承"/>
+  <string id="%2%" value="普通闭式齿轮单位"/>
+  <string id="%3%" value="精确闭式齿轮单位"/>
+  <string id="%4%" value="超精确闭式齿轮单位"/>
+</Resources>

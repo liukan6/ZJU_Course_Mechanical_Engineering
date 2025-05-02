@@ -1,0 +1,11 @@
+<Resources>
+  <string id="%1%" value="摩擦系数"/>
+  <string id="%2%" value="材料"/>
+  <string id="%3%" value="f"/>
+  <string id="%4%" value="模制"/>
+  <string id="%5%" value="机织织物"/>
+  <string id="%6%" value="烧结金属"/>
+  <string id="%7%" value="软木"/>
+  <string id="%8%" value="木头"/>
+  <string id="%9%" value="铸铁、硬钢"/>
+</Resources>

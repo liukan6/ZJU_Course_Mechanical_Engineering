@@ -1,0 +1,19 @@
+<Resources>
+  <string id="%1%" value="轴颈材料"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="弹性模量"/>
+  <string id="%4%" value="MPa"/>
+  <string id="%5%" value="泊松比"/>
+  <string id="%6%" value="热膨胀系数"/>
+  <string id="%7%" value="低碳钢"/>
+  <string id="%8%" value="灰口铸铁"/>
+  <string id="%9%" value="铝合金"/>
+  <string id="%10%" value="镁合金"/>
+  <string id="%11%" value="锡青铜合金"/>
+  <string id="%12%" value="铝青铜合金"/>
+  <string id="%13%" value="黄铜"/>
+  <string id="%14%" value="材料"/>
+  <string id="%15%" value="E"/>
+  <string id="%16%" value="||m|"/>
+  <string id="%17%" value="CoeffT"/>
+</Resources>

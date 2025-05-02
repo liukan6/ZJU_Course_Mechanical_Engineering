@@ -1,0 +1,21 @@
+<Resources>
+  <string id="%1%" value="联接材料"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="许用压力(静态载荷)"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="弹性模量"/>
+  <string id="%6%" value="钢的等级 37;42"/>
+  <string id="%7%" value="钢的等级 50"/>
+  <string id="%8%" value="钢的等级 60"/>
+  <string id="%9%" value="钢的等级 70"/>
+  <string id="%10%" value="铸钢"/>
+  <string id="%11%" value="灰口铸铁"/>
+  <string id="%12%" value="青铜"/>
+  <string id="%13%" value="材料"/>
+  <string id="%14%" value="||s||.A1|"/>
+  <string id="%15%" value="E"/>
+  <string id="%16%" value="许用压力(重复载荷)"/>
+  <string id="%17%" value="许用压力(交变载荷)"/>
+  <string id="%18%" value="||s||.A2|"/>
+  <string id="%19%" value="||s||.A3|"/>
+</Resources>

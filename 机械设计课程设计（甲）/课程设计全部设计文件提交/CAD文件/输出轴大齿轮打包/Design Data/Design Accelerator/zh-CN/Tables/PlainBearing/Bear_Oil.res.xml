@@ -1,0 +1,55 @@
+<Resources>
+  <string id="%1%" value="选定润滑剂在不同温度下的动态粘度"/>
+  <string id="%2%" value="润滑剂"/>
+  <string id="%3%" value="润滑剂规格"/>
+  <string id="%4%" value="||h|"/>
+  <string id="%5%" value="润滑剂在 0 |^o|C 下的动态粘度"/>
+  <string id="%6%" value="Pa s"/>
+  <string id="%7%" value="||r|"/>
+  <string id="%8%" value="润滑油密度"/>
+  <string id="%9%" value="kg m|^3|"/>
+  <string id="%10%" value="润滑剂在 10 |^o|C 下的动态粘度"/>
+  <string id="%11%" value="润滑剂在 20 |^o|C 下的动态粘度"/>
+  <string id="%12%" value="润滑剂在 30 |^o|C 下的动态粘度"/>
+  <string id="%13%" value="润滑剂在 40 |^o|C 下的动态粘度"/>
+  <string id="%14%" value="润滑剂在 50 |^o|C 下的动态粘度"/>
+  <string id="%15%" value="润滑剂在 60 |^o|C 下的动态粘度"/>
+  <string id="%16%" value="润滑剂在 70 |^o|C 下的动态粘度"/>
+  <string id="%17%" value="润滑剂在 80 |^o|C 下的动态粘度"/>
+  <string id="%18%" value="润滑剂在 90 |^o|C 下的动态粘度"/>
+  <string id="%19%" value="润滑剂在 100 |^o|C 下的动态粘度"/>
+  <string id="%20%" value="轴承润滑油 SAE 10; 10-W"/>
+  <string id="%21%" value="轴承润滑油 SAE 20; 20-W"/>
+  <string id="%22%" value="轴承润滑油 SAE 30"/>
+  <string id="%23%" value="轴承润滑油 SAE 40"/>
+  <string id="%24%" value="轴承润滑油 SAE 50"/>
+  <string id="%25%" value="轴承润滑油 SAE 60"/>
+  <string id="%26%" value="轴承润滑油 SAE 70"/>
+  <string id="%27%" value="轴承润滑油 P0"/>
+  <string id="%28%" value="轴承润滑油 J1"/>
+  <string id="%29%" value="轴承润滑油 J2"/>
+  <string id="%30%" value="透平油 TB32"/>
+  <string id="%31%" value="轴承润滑油 J3"/>
+  <string id="%32%" value="透平油 T4C"/>
+  <string id="%33%" value="轴承润滑油 J4"/>
+  <string id="%34%" value="轴承润滑油 J5"/>
+  <string id="%35%" value="机器润滑油 M3AD"/>
+  <string id="%36%" value="机器润滑油 M4A"/>
+  <string id="%37%" value="轴承润滑油 J6"/>
+  <string id="%38%" value="机器润滑油 M6A"/>
+  <string id="%39%" value="润滑油 OD8"/>
+  <string id="%40%" value="润滑油 M9A"/>
+  <string id="%41%" value="润滑油 K12"/>
+  <string id="%42%" value="润滑油 K18"/>
+  <string id="%43%" value="||h||.0|"/>
+  <string id="%44%" value="||h||.10|"/>
+  <string id="%45%" value="||h||.20|"/>
+  <string id="%46%" value="||h||.30|"/>
+  <string id="%47%" value="||h||.40|"/>
+  <string id="%48%" value="||h||.50|"/>
+  <string id="%49%" value="||h||.60|"/>
+  <string id="%50%" value="||h||.70|"/>
+  <string id="%51%" value="||h||.80|"/>
+  <string id="%52%" value="||h||.90|"/>
+  <string id="%53%" value="||h||.100|"/>
+</Resources>

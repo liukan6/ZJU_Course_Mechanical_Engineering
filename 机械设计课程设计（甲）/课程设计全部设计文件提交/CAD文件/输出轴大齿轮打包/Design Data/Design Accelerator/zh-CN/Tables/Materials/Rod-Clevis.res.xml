@@ -1,0 +1,13 @@
+<Resources>
+  <string id="%1%" value="U 形夹连杆材料 (ANSI)"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="许用压力"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="不锈钢"/>
+  <string id="%6%" value="优质/合金钢"/>
+  <string id="%7%" value="铸钢"/>
+  <string id="%8%" value="灰口铸铁"/>
+  <string id="%9%" value="青铜"/>
+  <string id="%10%" value="材料"/>
+  <string id="%11%" value="p|.Al|"/>
+</Resources>

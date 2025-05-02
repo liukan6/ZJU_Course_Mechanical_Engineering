@@ -1,0 +1,17 @@
+<Resources>
+  <string id="%1%" value="公称直径"/>
+  <string id="%2%" value="紧密间隙"/>
+  <string id="%3%" value="普通间隙"/>
+  <string id="%4%" value="宽松间隙"/>
+  <string id="%5%" value="头直径"/>
+  <string id="%6%" value="沉头深度"/>
+  <string id="%7%" value="倒角角度"/>
+  <string id="%8%" value="ANSI 统一标准螺钉螺纹"/>
+  <string id="%9%" value="ANSI 平头机器螺钉 (82)"/>
+  <string id="%10%" value="ANSI 平头机器螺钉 (100)"/>
+  <string id="%11%" value="ANSI 六角头螺栓"/>
+  <string id="%12%" value="ANSI 六角机器螺钉"/>
+  <string id="%13%" value="ANSI 椭圆头机器螺钉"/>
+  <string id="%14%" value="ANSI 凹头螺钉"/>
+  <string id="%15%" value="ANSI 平头机器螺钉 (80)"/>
+</Resources>

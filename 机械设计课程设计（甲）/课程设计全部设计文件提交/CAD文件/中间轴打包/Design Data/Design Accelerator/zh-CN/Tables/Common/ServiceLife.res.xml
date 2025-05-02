@@ -1,0 +1,10 @@
+<Resources>
+  <string id="%1%" value="期望的使用寿命 [小时]"/>
+  <string id="%2%" value="很少使用的家用机械、仪器和工具"/>
+  <string id="%3%" value="短期或间断使用的机械、手动操作的电气工具"/>
+  <string id="%4%" value="短期或间断使用的高可靠性机械"/>
+  <string id="%5%" value="每天使用时间不足 8 小时的机械"/>
+  <string id="%6%" value="每天使用 8 到 16 个小时的机械"/>
+  <string id="%7%" value="连续工作的机械"/>
+  <string id="%8%" value="以高安全性连续工作的机械"/>
+</Resources>

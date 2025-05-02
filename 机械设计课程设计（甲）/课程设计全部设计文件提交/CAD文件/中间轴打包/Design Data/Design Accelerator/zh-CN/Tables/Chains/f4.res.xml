@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="润滑系数"/>
+  <string id="%2%" value="链速度"/>
+  <string id="%3%" value="润滑方式"/>
+  <string id="%4%" value="推荐的润滑"/>
+  <string id="%5%" value="可接受的润滑"/>
+  <string id="%6%" value="无错误"/>
+  <string id="%7%" value="不足"/>
+  <string id="%8%" value="无润滑"/>
+  <string id="%9%" value="清洁的"/>
+  <string id="%10%" value="污染的"/>
+  <string id="%11%" value="最快 4 m/s"/>
+  <string id="%12%" value="最快 7 m/s"/>
+  <string id="%13%" value="最快 12 m/s"/>
+  <string id="%14%" value="快于 12 m/s"/>
+  <string id="%15%" value="滴油润滑"/>
+  <string id="%16%" value="手动润滑"/>
+  <string id="%17%" value="不允许"/>
+  <string id="%18%" value="油池或油盘润滑"/>
+  <string id="%19%" value="滴油润滑"/>
+  <string id="%20%" value="压油润滑"/>
+  <string id="%21%" value="喷油、压油润滑"/>
+v</Resources>

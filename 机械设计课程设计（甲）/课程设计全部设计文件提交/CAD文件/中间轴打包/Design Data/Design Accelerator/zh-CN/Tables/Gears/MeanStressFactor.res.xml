@@ -1,0 +1,5 @@
+<Resources>
+  <string id="%1%" value="平均应力系数"/>
+  <string id="%2%" value="空转齿轮"/>
+  <string id="%3%" value="单齿轮"/>
+</Resources>

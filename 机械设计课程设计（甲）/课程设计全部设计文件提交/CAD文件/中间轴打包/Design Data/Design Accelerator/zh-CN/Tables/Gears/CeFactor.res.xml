@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="网格对齐校正系数"/>
+  <string id="%2%" value="在部件上调整轴承"/>
+  <string id="%3%" value="轴承的兼容性通过叠加得到提高"/>
+  <string id="%4%" value="所有其他条件"/>
+</Resources>

@@ -1,0 +1,41 @@
+<Resources>
+<string id="%1%" value="弹簧材料"/>
+<string id="%2%" value="材料名称"/>
+<string id="%3%" value="密度"/>
+<string id="%4%" value="kg/m^3"/>
+<string id="%5%" value="拉伸模量"/>
+<string id="%6%" value="MPa"/>
+<string id="%7%" value="许用弯曲应力与极限拉伸强度的比率"/>
+<string id="%8%" value="极限拉应力"/>
+<string id="%9%" value="拉伸且经过索氏体化处理的碳钢，第一类"/>
+<string id="%10%" value="拉伸且经过索氏体化处理的碳钢，第二类"/>
+<string id="%11%" value="拉伸且经过索氏体化处理的碳钢，第三类"/>
+<string id="%12%" value="拉伸且经过索氏体化处理的碳钢，第四类"/>
+<string id="%13%" value="拉伸且经过索氏体化处理的碳钢，第五类"/>
+<string id="%14%" value="热处理钢丝 - 碳钢"/>
+<string id="%15%" value="热处理钢丝 — 硅铬合金钢 (14 260)"/>
+<string id="%16%" value="退火钢丝 — 硅铬合金钢 (14 260)"/>
+<string id="%17%" value="热处理钢丝 — 锰铬钒合金钢 (15 260)"/>
+<string id="%18%" value="退火钢丝 — 锰铬钒合金钢 (15 260)"/>
+<string id="%19%" value="拉伸钢丝 — 铬镍不锈钢 (17 242)"/>
+<string id="%20%" value="拉伸的锡青铜合金 (42 3016 和 42 3018)"/>
+<string id="%21%" value="拉伸的黄铜 (42 3210 和 42 3213)"/>
+<string id="%22%" value="材料"/>
+<string id="%23%" value="Std"/>
+<string id="%24%" value="标准"/>
+<string id="%25%" value="R|.o|"/>
+<string id="%26%" value="E"/>
+<string id="%27%" value="系数"/>
+<string id="%28%" value="WD"/>
+<string id="%29%" value="导线直径"/>
+<string id="%30%" value="mm"/>
+<string id="%31%" value="||s||.ult|"/>
+<string id="%32%" value="ISO"/>
+<string id="%33%" value="DIN"/>
+<string id="%34%" value="导线直径和极限拉伸强度"/>
+<string id="%35%" value="ul"/>
+<string id="%36%" value="钢丝，类别 1"/>
+<string id="%37%" value="钢丝，类别 2 和 2A"/>
+<string id="%38%" value="钢丝，类别 3"/>
+<string id="%39%" value="GOST"/>
+</Resources>

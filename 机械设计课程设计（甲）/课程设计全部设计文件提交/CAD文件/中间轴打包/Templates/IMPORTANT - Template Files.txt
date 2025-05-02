@@ -1,0 +1,11 @@
+使用多个语言包的用户须知
+
+适用于：
+ - 安装多个语言包并保留默认模板安装位置 (C:\Users\Public\Documents\Autodesk\Inventor release year\Templates) 不变的用户。
+ - 在 C:\Users\Public\Documents\Autodesk\Inventor release year\Templates 文件夹中存储自定义模板的用户，以及使用该文件夹中的自定义模板的用户。
+
+Inventor 支持许多版本的语言包。这允许您在单个 Inventor 版本上安装多种语言，并通过开始菜单快捷方式在语言之间进行切换（使用 /language 参数）。  
+
+虽然语言包会安装本地化的模板文件，但启动不同语言的 Inventor 并不会更改默认使用的模板。 
+
+在 Inventor 2020 中，所有语言包均以相同的方式安装和处理。您不再需要将模板复制到父文件夹，因为模板文件路径会随语言的更改而更新。这样可简化模板的使用和维护，无论是默认模板还是自定义模板。

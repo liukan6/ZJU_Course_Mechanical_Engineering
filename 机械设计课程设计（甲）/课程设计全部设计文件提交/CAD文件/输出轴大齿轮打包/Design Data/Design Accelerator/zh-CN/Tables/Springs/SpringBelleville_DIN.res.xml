@@ -1,0 +1,14 @@
+<Resources>
+  <string id="%1%" value="碟形弹簧 - DIN"/>
+  <string id="%2%" value="名称"/>
+  <string id="%3%" value="弹簧名称"/>
+  <string id="%4%" value="D"/>
+  <string id="%5%" value="外径"/>
+  <string id="%6%" value="mm"/>
+  <string id="%7%" value="内径"/>
+  <string id="%8%" value="d"/>
+  <string id="%9%" value="材料厚度"/>
+  <string id="%10%" value="t"/>
+  <string id="%11%" value="自由高度"/>
+  <string id="%12%" value="H"/>
+</Resources>

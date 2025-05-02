@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><Resources>
+  <string id="%1%" value="安全系数"/>
+  <string id="%2%" value="从动机特征"/>
+  <string id="%3%" value="主动机特征"/>
+  <string id="%4%" value="平稳运行"/>
+  <string id="%5%" value="轻度冲击"/>
+  <string id="%6%" value="中度冲击"/>
+  <string id="%7%" value="重度冲击"/>
+  <string id="%8%" value="冲击系数"/>
+</Resources>

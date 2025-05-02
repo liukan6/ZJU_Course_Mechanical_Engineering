@@ -1,0 +1,5 @@
+<Resources>
+  <string id="%1%" value="导程校正系数"/>
+  <string id="%2%" value="带有未修改导程的齿轮"/>
+  <string id="%3%" value="具有已通过齿冠或导程校正正确修改的导程的齿轮"/>
+</Resources>

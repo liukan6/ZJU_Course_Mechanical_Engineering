@@ -1,0 +1,9 @@
+<Resources>
+  <string id="%1%" value="应用系数"/>
+  <string id="%2%" value="主动机器冲击"/>
+  <string id="%3%" value="从动机器冲击"/>
+  <string id="%4%" value="流利地"/>
+  <string id="%5%" value="轻微冲击"/>
+  <string id="%6%" value="中度冲击"/>
+  <string id="%7%" value="严重冲击"/>
+</Resources>

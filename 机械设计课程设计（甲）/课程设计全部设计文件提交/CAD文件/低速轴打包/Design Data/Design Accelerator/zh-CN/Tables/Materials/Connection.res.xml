@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="材料"/>
+  <string id="%2%" value="材料名称"/>
+  <string id="%3%" value="极限拉应力"/>
+  <string id="%4%" value="psi"/>
+  <string id="%5%" value="许用压力"/>
+  <string id="%6%" value="许用剪切应力"/>
+  <string id="%7%" value="结构钢"/>
+  <string id="%8%" value="碳化钢"/>
+  <string id="%9%" value="精炼合金钢"/>
+  <string id="%10%" value="表面硬化钢"/>
+  <string id="%11%" value="表面硬化钢"/>
+  <string id="%12%" value="层状石墨铸铁"/>
+  <string id="%13%" value="球面石墨铸铁"/>
+  <string id="%14%" value="铝合金"/>
+  <string id="%15%" value="材料"/>
+  <string id="%16%" value="S|.ult|"/>
+  <string id="%17%" value="p|.A|"/>
+  <string id="%18%" value="||t||.Al|"/>
+</Resources>

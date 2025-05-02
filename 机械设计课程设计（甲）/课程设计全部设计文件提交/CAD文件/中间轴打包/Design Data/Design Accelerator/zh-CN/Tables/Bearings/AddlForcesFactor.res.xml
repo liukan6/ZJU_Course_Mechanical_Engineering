@@ -1,0 +1,20 @@
+<Resources>
+  <string id="%1%" value="附加力系数"/>
+  <string id="%2%" value="系数"/>
+  <string id="%3%" value="机器类型"/>
+  <string id="%4%" value="旋转电机、蜗轮机、蜗轮压缩机"/>
+  <string id="%5%" value="机车活塞引擎"/>
+  <string id="%6%" value="传送带、索道、泵、风机"/>
+  <string id="%7%" value="起重机、升降机、矿用风机"/>
+  <string id="%8%" value="矿用升降机和泵"/>
+  <string id="%9%" value="活塞泵和压缩机"/>
+  <string id="%10%" value="碾碎机、管磨机和锤式粉碎机/破碎机"/>
+  <string id="%11%" value="推土机、深孔钻床"/>
+  <string id="%12%" value="烘干室"/>
+  <string id="%13%" value="造纸机和纺织机"/>
+  <string id="%14%" value="食品加工机"/>
+  <string id="%15%" value="研磨机；钻床、铣床、刨床以及伐木机"/>
+  <string id="%16%" value="板条机、往复式修剪机"/>
+  <string id="%17%" value="轧钢机、锻锤、电动薄板剪切机、冲压机"/>
+  <string id="%18%" value="粗粒捣碎机"/>
+</Resources>

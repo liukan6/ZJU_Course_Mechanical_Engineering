@@ -1,0 +1,5 @@
+<Resources>
+  <string id="%1%" value="由工作温度决定的轴承额定载荷降低系数 (SKF)"/>
+  <string id="%2%" value="温度"/>
+  <string id="%3%" value="额定载荷降低系数"/>
+</Resources>

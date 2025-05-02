@@ -1,0 +1,16 @@
+<Resources>
+  <string id="%1%" value="应用系数"/>
+  <string id="%2%" value="均匀"/>
+  <string id="%3%" value="轻度冲击"/>
+  <string id="%4%" value="间歇冲击"/>
+  <string id="%5%" value="重度冲击"/>
+  <string id="%6%" value="均匀 (蜗轮机、电动机)"/>
+  <string id="%7%" value="轻度	(液压发动机)"/>
+  <string id="%8%" value="中度 (内燃机、发动机)"/>
+  <string id="%9%" value="载荷类型"/>
+  <string id="%10%" value="动力源"/>
+  <string id="%11%" value="(风力发电机)"/>
+  <string id="%12%" value="(振荡泵等)"/>
+  <string id="%13%" value="(操作泵)"/>
+  <string id="%14%" value="(冲压机、剪切机等)"/>  
+</Resources>

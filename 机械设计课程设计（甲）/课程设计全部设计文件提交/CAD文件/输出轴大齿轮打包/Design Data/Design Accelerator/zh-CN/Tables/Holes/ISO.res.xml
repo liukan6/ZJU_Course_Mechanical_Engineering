@@ -1,0 +1,18 @@
+<Resources>
+  <string id="%1%" value="公称直径"/>
+  <string id="%2%" value="紧密齿隙"/>
+  <string id="%3%" value="普通齿隙"/>
+  <string id="%4%" value="宽松齿隙"/>
+  <string id="%5%" value="头直径"/>
+  <string id="%6%" value="沉头深度"/>
+  <string id="%7%" value="倒角角度"/>
+  <string id="%8%" value="ISO 钻孔"/>
+  <string id="%9%" value="沉头平头螺钉 ISO 2009/7046"/>
+  <string id="%10%" value="凸起沉头螺钉 ISO 2010/7047"/>
+  <string id="%11%" value="六角头螺钉 ISO 24017"/>
+  <string id="%12%" value="六角头螺钉 ISO 24014 (沉头平面孔)"/>
+  <string id="%13%" value="ISO 六角头螺钉"/>
+  <string id="%14%" value="沉头平头六角凹头螺钉 ISO 10642"/>
+  <string id="%15%" value="凹头螺钉 ISO 4762"/>
+  <string id="%16%" value="开槽圆柱头螺钉 ISO 1207"/>
+</Resources>

@@ -1,0 +1,6 @@
+<Resources>
+  <string id="%1%" value="联接器设计系数"/>
+  <string id="%2%" value="固定联接"/>
+  <string id="%3%" value="无载荷滑动联接器"/>
+  <string id="%4%" value="载荷滑动联接器"/>
+</Resources>
