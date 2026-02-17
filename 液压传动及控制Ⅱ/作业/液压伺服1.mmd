@@ -1,0 +1,49 @@
+---
+title: 
+config:
+  theme: base
+  themeVariables:
+    primaryColor: "#ffffff"
+    mermaid-container: "#ffffff"
+---
+
+%% graph LR
+%%     subgraph 压力传感器
+%%         P_S
+%%         P_A
+%%         P_B
+%%     end
+
+%%     A[液压动力单元] --> B[被测滑阀]
+%%     B --输出油液--> B1[负载模拟]
+%%     B1 --回路反馈--> B
+%%     B --> LVDT
+%%     B --> 压力传感器
+%%     B --> 流量计
+    
+%%     B --> C[力传感器]
+%%     C --力反馈信号--> E[数据采集与控制系统]
+%%     压力传感器 --压力信号--> E
+%%     流量计 --流量信号--> E
+%%     LVDT --位置信号--> E
+
+graph LR
+    subgraph 压力传感器
+        P_S
+        P_A
+        P_B
+    end
+
+    阀芯驱动机构 --> B
+    A[液压动力单元] --> B[被测滑阀]
+    B --> 高频LVDT
+    B --> 压力传感器
+    B --> 流量计
+    B --> 加速度计
+    
+    B --> C[力传感器]
+    C --力反馈信号--> E[高速数据采集与控制系统]
+    加速度计 --加速度信号--> E
+    压力传感器 --压力信号--> E
+    流量计 --流量信号--> E
+    高频LVDT --位置信号--> E
